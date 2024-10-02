@@ -41,3 +41,7 @@ input[type="checkbox"] {
     margin: 5px;
     padding: 5px 15px;
 }
+
+footer {
+    text-align: center;
+}
